@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Recurly.NetCore.Example", "Recurly.NetCore.Example\Recurly.NetCore.Example.csproj", "{328FE870-7276-4EC4-8CAD-03AD9AE6022F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Recurly.NetCore", "Recurly.NetCore\Recurly.NetCore.csproj", "{31F1938C-9D1D-436E-8BBA-F420D3516279}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{328FE870-7276-4EC4-8CAD-03AD9AE6022F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{328FE870-7276-4EC4-8CAD-03AD9AE6022F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{328FE870-7276-4EC4-8CAD-03AD9AE6022F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{328FE870-7276-4EC4-8CAD-03AD9AE6022F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31F1938C-9D1D-436E-8BBA-F420D3516279}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31F1938C-9D1D-436E-8BBA-F420D3516279}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31F1938C-9D1D-436E-8BBA-F420D3516279}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31F1938C-9D1D-436E-8BBA-F420D3516279}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
